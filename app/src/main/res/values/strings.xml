@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PowerKey</string>
+    <string name="length">Length</string>
+    <string name="char_options">Character options</string>
+    <string name="upper_case">Uppercase (A-Z)</string>
+    <string name="lower_case">Lowercase (a-z)</string>
+    <string name="numbers">Numbers (0-9)</string>
+    <string name="symbols">Symbols</string>
+    <string name="password_types">Password Types</string>
+    <string name="memorable">Memorable Password</string>
+    <string name="easy">Easy Password (AAA999aaa!)</string>
+    <string name="generate">Generate</string>
+    <string name="result">Result</string>
+    <string name="copy">Copy</string>
+    <string name="easy_help">The easy password uses a fixed order: 3 uppercase letters, 3 numbers, 3 lowercase letters, and 1 special character.</string>
+    <string name="advice">For greater security, use a length >= 12 and mix character types.</string>
+    <string name="password">Password</string>
+    <string name="select">Please select at least one character option</string>
+</resources>

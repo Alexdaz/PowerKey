@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PowerKey</string>
+    <string name="length">Longitud</string>
+    <string name="char_options">Opciones de caracteres</string>
+    <string name="upper_case">Mayúsculas (A-Z)</string>
+    <string name="lower_case">Minúsculas (a-z)</string>
+    <string name="numbers">Números (0-9)</string>
+    <string name="symbols">Especiales</string>
+    <string name="password_types">Tipo de contraseñas</string>
+    <string name="memorable">Contraseña memorable</string>
+    <string name="easy">Contraseña fácil (AAA999aaa!)</string>
+    <string name="generate">Generar</string>
+    <string name="result">Resultado</string>
+    <string name="copy">Copiar</string>
+    <string name="easy_help">La contraseña fácil usa el orden fijo: 3 mayúsculas, 3 números, 3 minúsculas y 1 carácter especial.</string>
+    <string name="advice">Para mayor seguridad, usa una longitud >= 12 y mezcla tipos de caracteres.</string>
+    <string name="password">Contraseña</string>
+    <string name="select">Selecciona al menos una opción de caracteres</string>
+</resources>
