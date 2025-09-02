@@ -5,5 +5,5 @@
 This application simplifies the creation of strong passwords, offering memorable and user-friendly options that meet the security requirements of most platforms and services.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Alexdaz/PowerKey/main/Assets/SSPowerKey.png"/>
+<img src="https://raw.githubusercontent.com/Alexdaz/PowerKey/master/Assets/SSPowerKey.png"/>
 </p>
